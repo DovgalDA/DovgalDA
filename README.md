@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DovgalDA
 - 👀 I’m interested in Data science, R&D. 
-- 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Phyton, ML, DS.
 - 📫 How to reach me: telegram: @DmitriyDovgal
 
 <!---
